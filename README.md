@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Karan Sharma
 
-### 🚀 Generative AI Engineer | NLP Specialist | LLM Researcher
+### Generative AI | NLP | LLM 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Architecting+Next-Gen+LLMs;Natural+Language+Processing;Generative+AI+%7C+RAG+%7C+Agents;KaranSharmaWorkspace" alt="Typing SVG" />
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 ```python
 class KaranSharma:
@@ -26,7 +26,7 @@ class KaranSharma:
         self.mission = "Building intelligent systems that understand the world"
         
     def train_model(self):
-        return "Optimizing loss... 🚀 Model converged!"
+        return "Optimizing loss...  Model converged!"
 
 me = KaranSharma()
 print(me.mission)
@@ -144,3 +144,4 @@ I am a passionate **AI Engineer** focused on the cutting edge of **Generative AI
 ⭐️ From [KaranSharmaWorkspace](https://github.com/karansharmaworkspace)
 
 </div>
+
