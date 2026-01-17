@@ -1,6 +1,4 @@
 <div align="center">
-
-![Header](assets/header.png)
   
 # 👋 Hi, I'm Karan Sharma
 
