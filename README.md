@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Karan Sharma
 
-### Generative AI | NLP | LLM 
+### 🚀 Generative AI Engineer | NLP Specialist | LLM Researcher
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Architecting+Next-Gen+LLMs;Natural+Language+Processing;Generative+AI+%7C+RAG+%7C+Agents;KaranSharmaWorkspace" alt="Typing SVG" />
 
@@ -14,30 +14,13 @@
 
 ---
 
-## About Me
+## 🎯 About Me
 
-```python
-class KaranSharma:
-    def __init__(self):
-        self.name = "Karan Sharma"
-        self.handle = "@karansharmaworkspace"
-        self.role = "Generative AI Engineer"
-        self.specialties = ["LLMs", "NLP", "Transformers", "RAG"]
-        self.mission = "Building intelligent systems that understand the world"
-        
-    def train_model(self):
-        return "Optimizing loss...  Model converged!"
+I am a passionate **Generative AI Engineer** and **Researcher** dedicated to building intelligent systems that understand and interact with the world. My work sits at the intersection of **Large Language Models (LLMs)**, **Natural Language Processing (NLP)**, and **Autonomous Agents**.
 
-me = KaranSharma()
-print(me.mission)
-```
-
-I am a passionate **AI Engineer** focused on the cutting edge of **Generative AI** and **Natural Language Processing**. My work revolves around training Large Language Models, building autonomous agents, and architecting RAG systems that solve real-world problems.
-
-- 🧠 **LLMs & GenAI**: Fine-tuning foundational models (Llama, Mistral) and building custom **RAG** pipelines for enterprise knowledge retrieval.
-- 🗣️ **NLP Research**: Expertise in **Transformers**, semantic search, and sentiment analysis using state-of-the-art architectures.
-- 🤖 **AI Agents**: Developing autonomous multi-agent systems capable of complex reasoning and task execution.
-- 🔬 **Deep Learning**: Building and optimizing neural networks using **PyTorch** and **TensorFlow** for predictive modeling.
+- 🔭 **Current Focus**: Architecting high-performance **RAG pipelines** and fine-tuning **Llama/Mistral** models for specialized domains.
+- � **Mission**: To bridge the gap between cutting-edge AI research and scalable, real-world applications.
+- 🤝 **Collaboration**: Open to interesting projects in **AI Agents**, **Constitutional AI**, and **Multimodal capabilities**.
 
 ---
 
@@ -103,7 +86,7 @@ I am a passionate **AI Engineer** focused on the cutting edge of **Generative AI
 <div align="center">
   
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karansharmaworkspace&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
-![Snake animation](https://github.com/karansharmaworkspace/karansharmaworkspace/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/karansharmaworkspace/karansharmaworkspace/blob/output/github-contribution-grid-snake.svg?raw=true)
 
 </div>
 
@@ -144,4 +127,3 @@ I am a passionate **AI Engineer** focused on the cutting edge of **Generative AI
 ⭐️ From [KaranSharmaWorkspace](https://github.com/karansharmaworkspace)
 
 </div>
-
