@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 I am a passionate **Generative AI Engineer** and **Researcher** dedicated to building intelligent systems that understand and interact with the world. My work sits at the intersection of **Large Language Models (LLMs)**, **Natural Language Processing (NLP)**, and **Autonomous Agents**.
 
@@ -127,3 +127,4 @@ I am a passionate **Generative AI Engineer** and **Researcher** dedicated to bui
 ⭐️ From [KaranSharmaWorkspace](https://github.com/karansharmaworkspace)
 
 </div>
+
