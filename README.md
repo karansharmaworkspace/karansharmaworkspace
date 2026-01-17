@@ -12,9 +12,9 @@
 
 </div>
 
+---
 
-
-## About Me
+## 🎯 About Me
 
 I am a passionate **Generative AI Engineer** and **Researcher** dedicated to building intelligent systems that understand and interact with the world. My work sits at the intersection of **Large Language Models (LLMs)**, **Natural Language Processing (NLP)**, and **Autonomous Agents**.
 
@@ -62,31 +62,23 @@ I am a passionate **Generative AI Engineer** and **Researcher** dedicated to bui
 
 ---
 
-## 🏆 Featured Projects
+
+
+## 🏆 Achievements
 
 <div align="center">
 
-[![Large Language Models](https://github-readme-stats.vercel.app/api/pin/?username=karansharmaworkspace&repo=llm-research&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/karansharmaworkspace/llm-research)
-[![GenAI Agents](https://github-readme-stats.vercel.app/api/pin/?username=karansharmaworkspace&repo=genai-agents&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)](https://github.com/karansharmaworkspace/genai-agents)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=karansharmaworkspace&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
-### 🧠 Generative AI & NLP
-- **[LLM Research](https://github.com/karansharmaworkspace/llm-research)** - Advanced fine-tuning and evaluation of Large Language Models
-- **[GenAI Agents](https://github.com/karansharmaworkspace/genai-agents)** - Autonomous multi-agent systems for complex task execution
-
-### 📱 Android Development
-- **[Fitness Gamification App](https://github.com/karansharmaworkspace/fitness-app)** - Tactical HUD-themed fitness tracker with XP system and gamification
-- **[Operator Alert System](https://github.com/karansharmaworkspace/operator-alerts)** - Real-time alert system for machinery operators
-
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity & Contributions
 
 <div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=karansharmaworkspace&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
-![Snake animation](https://github.com/karansharmaworkspace/karansharmaworkspace/blob/output/github-contribution-grid-snake.svg?raw=true)
+
+![3D Contribution Graph](https://github.com/karansharmaworkspace/karansharmaworkspace/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
@@ -127,5 +119,3 @@ I am a passionate **Generative AI Engineer** and **Researcher** dedicated to bui
 ⭐️ From [KaranSharmaWorkspace](https://github.com/karansharmaworkspace)
 
 </div>
-
-
