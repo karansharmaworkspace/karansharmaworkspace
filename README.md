@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Karan Sharma
 
-### 🚀 Generative AI Engineer | NLP Specialist | LLM Researcher
+### 🚀 Generative AI | NLP | LLMs
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Architecting+Next-Gen+LLMs;Natural+Language+Processing;Generative+AI+%7C+RAG+%7C+Agents;KaranSharmaWorkspace" alt="Typing SVG" />
 
@@ -119,3 +119,4 @@ I am a passionate **Generative AI Engineer** and **Researcher** dedicated to bui
 ⭐️ From [KaranSharmaWorkspace](https://github.com/karansharmaworkspace)
 
 </div>
+
