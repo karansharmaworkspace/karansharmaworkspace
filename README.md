@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Hi, I'm Karan Sharma
+#  Hi, I'm Karan Sharma
 
-### 🚀 Generative AI | NLP | LLMs
+### Generative AI | NLP | LLMs
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Architecting+Next-Gen+LLMs;Natural+Language+Processing;Generative+AI+%7C+RAG+%7C+Agents;KaranSharmaWorkspace" alt="Typing SVG" />
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 About Me
+##  About Me
 
 I am a passionate **Generative AI Engineer** and **Researcher** dedicated to building intelligent systems that understand and interact with the world. My work sits at the intersection of **Large Language Models (LLMs)**, **Natural Language Processing (NLP)**, and **Autonomous Agents**.
 
@@ -48,7 +48,7 @@ I am a passionate **Generative AI Engineer** and **Researcher** dedicated to bui
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   
@@ -124,4 +124,5 @@ I am a passionate **Generative AI Engineer** and **Researcher** dedicated to bui
 ⭐️ From [KaranSharmaWorkspace](https://github.com/karansharmaworkspace)
 
 </div>
+
 
