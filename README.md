@@ -64,7 +64,7 @@ I am a passionate **Generative AI Engineer** and **Researcher** dedicated to bui
 
 
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
@@ -124,5 +124,6 @@ I am a passionate **Generative AI Engineer** and **Researcher** dedicated to bui
 ⭐️ From [KaranSharmaWorkspace](https://github.com/karansharmaworkspace)
 
 </div>
+
 
 
