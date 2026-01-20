@@ -87,11 +87,11 @@ I am a passionate **Generative AI Engineer** and **Researcher** dedicated to bui
 ## 🎓 Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Merged PR [#5](https://github.com/karansharmaworkspace/karansharmaworkspace/pull/5) in [karansharmaworkspace/karansharmaworkspace](https://github.com/karansharmaworkspace/karansharmaworkspace)
-2.  Opened PR [#5](https://github.com/karansharmaworkspace/karansharmaworkspace/pull/5) in [karansharmaworkspace/karansharmaworkspace](https://github.com/karansharmaworkspace/karansharmaworkspace)
-3.  Merged PR [#4](https://github.com/karansharmaworkspace/karansharmaworkspace/pull/4) in [karansharmaworkspace/karansharmaworkspace](https://github.com/karansharmaworkspace/karansharmaworkspace)
-4.  Opened PR [#4](https://github.com/karansharmaworkspace/karansharmaworkspace/pull/4) in [karansharmaworkspace/karansharmaworkspace](https://github.com/karansharmaworkspace/karansharmaworkspace)
-5.  Merged PR [#3](https://github.com/karansharmaworkspace/karansharmaworkspace/pull/3) in [karansharmaworkspace/karansharmaworkspace](https://github.com/karansharmaworkspace/karansharmaworkspace)
+1. 🎉 Merged PR [#5](https://github.com/karansharmaworkspace/karansharmaworkspace/pull/5) in [karansharmaworkspace/karansharmaworkspace](https://github.com/karansharmaworkspace/karansharmaworkspace)
+2. 💪 Opened PR [#5](https://github.com/karansharmaworkspace/karansharmaworkspace/pull/5) in [karansharmaworkspace/karansharmaworkspace](https://github.com/karansharmaworkspace/karansharmaworkspace)
+3. 🎉 Merged PR [#4](https://github.com/karansharmaworkspace/karansharmaworkspace/pull/4) in [karansharmaworkspace/karansharmaworkspace](https://github.com/karansharmaworkspace/karansharmaworkspace)
+4. 💪 Opened PR [#4](https://github.com/karansharmaworkspace/karansharmaworkspace/pull/4) in [karansharmaworkspace/karansharmaworkspace](https://github.com/karansharmaworkspace/karansharmaworkspace)
+5. 🎉 Merged PR [#3](https://github.com/karansharmaworkspace/karansharmaworkspace/pull/3) in [karansharmaworkspace/karansharmaworkspace](https://github.com/karansharmaworkspace/karansharmaworkspace)
 <!--END_SECTION:activity-->
 
 ---
