@@ -87,7 +87,7 @@ I am a passionate **Generative AI Engineer** and **Researcher** dedicated to bui
 ## 🎓 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/karansharmaworkspace/karansharmaworkspace/pull/5) in [karansharmaworkspace/karansharmaworkspace](https://github.com/karansharmaworkspace/karansharmaworkspace)
+1. 🗣 Commented on [#82](https://github.com/andrewmccalip/kickbacks.ai/issues/82#issuecomment-4698792646) in [andrewmccalip/kickbacks.ai](https://github.com/andrewmccalip/kickbacks.ai)
 2. 💪 Opened PR [#5](https://github.com/karansharmaworkspace/karansharmaworkspace/pull/5) in [karansharmaworkspace/karansharmaworkspace](https://github.com/karansharmaworkspace/karansharmaworkspace)
 3. 🎉 Merged PR [#4](https://github.com/karansharmaworkspace/karansharmaworkspace/pull/4) in [karansharmaworkspace/karansharmaworkspace](https://github.com/karansharmaworkspace/karansharmaworkspace)
 4. 💪 Opened PR [#4](https://github.com/karansharmaworkspace/karansharmaworkspace/pull/4) in [karansharmaworkspace/karansharmaworkspace](https://github.com/karansharmaworkspace/karansharmaworkspace)
