@@ -2,11 +2,11 @@ name: Update README Stats
 
 on:
   schedule:
-    - cron: "0 3 * * *"  # Daily at 3am UTC
+    - cron: "0 3 * * *"
   push:
     paths:
       - ".github/workflows/stats.yml"
-  workflow_dispatch:  # Manual trigger
+  workflow_dispatch:
 
 jobs:
   stats:
@@ -18,47 +18,30 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
+        uses: stats-organization/github-readme-stats-action@v2
         with:
-          username: karansharmaworkspace
-          show_icons: true
-          theme: tokyonight
-          hide_border: true
-          bg_color: "0D1117"
-          title_color: "00D9FF"
-          icon_color: "00D9FF"
-          text_color: "FFFFFF"
-          path: profile
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF
+          path: profile/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages
-        uses: anuraghazra/github-readme-stats@master
+        uses: stats-organization/github-readme-stats-action@v2
         with:
-          username: karansharmaworkspace
-          layout: compact
-          theme: tokyonight
-          hide_border: true
-          bg_color: "0D1117"
-          title_color: "00D9FF"
-          text_color: "FFFFFF"
-          path: profile
-          filename: top-langs
-
-      - name: Generate Streak Stats
-        uses: DenverCoder1/github-readme-streak-stats@main
-        with:
-          options: user=karansharmaworkspace&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF
-          path: profile
-          filename: streak
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Trophy
         uses: ryo-ma/github-profile-trophy@master
         with:
-          username: karansharmaworkspace
+          username: ${{ github.repository_owner }}
           theme: tokyonight
           no-frame: true
           no-bg: true
           margin-w: 4
-          path: profile
+          path: profile/trophy.svg
 
       - name: Commit stats
         run: |
