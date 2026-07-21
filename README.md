@@ -77,11 +77,11 @@ I am a passionate **Generative AI Engineer** and **Researcher** dedicated to bui
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karansharmaworkspace&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+![GitHub Stats](./profile/github-stats.svg)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karansharmaworkspace&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+![GitHub Streak](./profile/streak.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karansharmaworkspace&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+![Top Languages](./profile/top-langs.svg)
 
 </div>
 
@@ -93,7 +93,7 @@ I am a passionate **Generative AI Engineer** and **Researcher** dedicated to bui
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=karansharmaworkspace&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](./profile/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 

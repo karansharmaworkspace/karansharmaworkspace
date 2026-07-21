@@ -1,0 +1,69 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"  # Daily at 3am UTC
+  push:
+    paths:
+      - ".github/workflows/stats.yml"
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: karansharmaworkspace
+          show_icons: true
+          theme: tokyonight
+          hide_border: true
+          bg_color: "0D1117"
+          title_color: "00D9FF"
+          icon_color: "00D9FF"
+          text_color: "FFFFFF"
+          path: profile
+
+      - name: Generate Top Languages
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: karansharmaworkspace
+          layout: compact
+          theme: tokyonight
+          hide_border: true
+          bg_color: "0D1117"
+          title_color: "00D9FF"
+          text_color: "FFFFFF"
+          path: profile
+          filename: top-langs
+
+      - name: Generate Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=karansharmaworkspace&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF
+          path: profile
+          filename: streak
+
+      - name: Generate Trophy
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: karansharmaworkspace
+          theme: tokyonight
+          no-frame: true
+          no-bg: true
+          margin-w: 4
+          path: profile
+
+      - name: Commit stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README stats" || exit 0
+          git push
