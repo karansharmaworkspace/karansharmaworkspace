@@ -16,13 +16,6 @@
 
 <div align="center">
 
-<h3><code>karan@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="860" alt="Karan's GitHub contribution graph" />
-
-<br>
-<br>
-
 <h3><code>karan@github ~ $ whoami</code></h3>
 
 <table>
