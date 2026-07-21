@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 #  Hi, I'm Karan Sharma
 
 ### Generative AI | NLP | LLMs
@@ -9,6 +9,38 @@
 [![GitHub followers](https://img.shields.io/github/followers/karansharmaworkspace?label=Follow&style=social)](https://github.com/karansharmaworkspace)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/twynixkaran)
 ![Profile Views](https://komarev.com/ghpvc/?username=karansharmaworkspace&color=blueviolet&style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+
+<h3><code>karan@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="860" alt="Karan's GitHub contribution graph" />
+
+<br>
+<br>
+
+<h3><code>karan@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./karan-ascii.svg" width="370" alt="Karan Sharma — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Karan Sharma — experience, stack, highlights" /></td>
+</tr>
+</table>
+
+<br>
+<br>
+
+<h3><code>karan@github ~ $ ./links.sh</code></h3>
+
+<p><b>Generative AI Engineer · NLP Researcher · LLM Architect</b></p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-karansharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/twynixkaran)
+[![Email](https://img.shields.io/badge/Email-contact@karansharma.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@karansharma.com)
 
 </div>
 
