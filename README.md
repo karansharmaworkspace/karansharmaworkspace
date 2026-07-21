@@ -33,7 +33,7 @@
 <p><b>Generative AI Engineer · NLP Researcher · LLM Architect</b></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-karansharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/twynixkaran)
-[![Email](https://img.shields.io/badge/Email-contact@karansharma.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@karansharma.com)
+[![Email](https://img.shields.io/badge/Email-karansharma.workspace@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karansharma.workspace@gmail.com)
 
 </div>
 
@@ -136,7 +136,7 @@ I am a passionate **Generative AI Engineer** and **Researcher** dedicated to bui
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/twynixkaran)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@karansharma.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karansharma.workspace@gmail.com)
 
 </div>
 
