@@ -42,7 +42,7 @@ jobs:
           output_path: profile/trophy.svg
 
       - name: Generate Streak
-        uses: DenverCoder1/github-readme-streak-stats@v2.7.1
+        uses: DenverCoder1/github-readme-streak-stats@v1.7.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           path: profile/streak.svg
