@@ -37,11 +37,9 @@ jobs:
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           theme: tokyonight
-          no-frame: true
-          no-bg: true
-          margin-w: 4
-          path: profile/trophy.svg
+          output_path: profile/trophy.svg
 
       - name: Commit stats
         run: |
