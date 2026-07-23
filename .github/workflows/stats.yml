@@ -34,12 +34,11 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Trophy
-        uses: ryo-ma/github-profile-trophy@master
+        uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          username: ${{ github.repository_owner }}
+          options: 'username=${{ github.repository_owner }}&theme=tokyonight&no-bg=true&no-frame=true&margin-w=4'
+          path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          theme: tokyonight
-          output_path: profile/trophy.svg
 
       - name: Generate Streak
         uses: DenverCoder1/github-readme-streak-stats@v1.7.0
