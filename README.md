@@ -30,7 +30,7 @@
 
 <h3><code>karan@github ~ $ ./links.sh</code></h3>
 
-<p><b>Generative AI Engineer · NLP Researcher · LLM Architect</b></p>
+<p><b>REE Researcher · AI Engineer · SLM Explorer</b></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-karansharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/twynixkaran)
 [![Email](https://img.shields.io/badge/Email-karansharma.workspace@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karansharma.workspace@gmail.com)
