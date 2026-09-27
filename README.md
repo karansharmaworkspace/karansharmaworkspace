@@ -41,7 +41,7 @@
 
 ##  About Me
 
-I am a passionate **Generative AI Engineer** and **Researcher** dedicated to building intelligent systems that understand and interact with the world. My work sits at the intersection of **Large Language Models (LLMs)**, **Natural Language Processing (NLP)**, and **Autonomous Agents**.
+I am a passionate **AI Engineer** and **Researcher** dedicated to building intelligent systems that understand and interact with the world. My work sits at the intersection of **Large Language Models (LLMs)**, **Natural Language Processing (NLP)**, and **Autonomous Agents**.
 
 - 🔭 **Current Focus**: Architecting high-performance **RAG pipelines** and fine-tuning **Llama/Mistral** models for specialized domains.
 - � **Mission**: To bridge the gap between cutting-edge AI research and scalable, real-world applications.
